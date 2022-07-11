@@ -5,6 +5,5 @@
 ### HTML5
 
 ### CSS
-    *Flexbox
-    *Grid
-###
+* Flexbox
+* Grid
